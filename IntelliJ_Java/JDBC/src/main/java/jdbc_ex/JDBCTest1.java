@@ -33,7 +33,7 @@ public class JDBCTest1 {
 
                 // 5. SQL문 실행 및 결과 받기
                 // executeQuery(sql): 데이터베이스에 쿼리를 실행하고, 결과를 ResultSet 객체에 담습니다.
-                ResultSet rs = stmt.executeQuery(sql);
+                ResultSet rs = stmt.executeQuery(sql);//GIT TEST
 
                 // 6. 결과를 받아서 출력하기
                 // ResultSet을 사용해 쿼리 결과를 한 행씩 반복하며 출력합니다.
