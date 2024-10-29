@@ -1,0 +1,37 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class E01_ArrayEx1 {
+
+	public static void main(String[] args) {
+	/*
+		같은 변수명에 각기 다른 값에 인덱스를 부여하여 배열로 등록
+		
+		배열 (Array)
+			변수 선언시 하나의 변수명으로
+			동시에 여러개 값을 저장할 공간을 만드는 자료 구조
+	*/
+		Scanner sc = new Scanner(System.in);
+		
+		
+		int n1, n2, n3, n4, n5;
+		
+		n1 = sc.nextInt();
+		n2 = sc.nextInt();
+		n3 = sc.nextInt();
+		n4 = sc.nextInt();
+		n5 = sc.nextInt();
+		
+		int sum = 0;
+		sum += n1;
+		sum += n2;
+		sum += n3;
+		sum += n4;
+		sum += n5;
+		
+		
+		
+		
+	}
+
+}

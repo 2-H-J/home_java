@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Network/src/quest&apos;&#x0D;&#x0A;- Original project: &apos;Network&apos;&#x0D;&#x0A;- Destination element: &apos;Network/src/quest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     basic.QuestClientMain.java&#x0D;&#x0A;     basic.QusetServerMain.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;quest" element1="/src&lt;basic{QuestClientMain.java" element2="/src&lt;basic{QusetServerMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1727850944898" units="2" version="1.0"/>
+</session>

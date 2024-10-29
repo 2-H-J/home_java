@@ -1,0 +1,9 @@
+package e03_syncronized;
+
+public class Player extends Thread{
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+	}
+}

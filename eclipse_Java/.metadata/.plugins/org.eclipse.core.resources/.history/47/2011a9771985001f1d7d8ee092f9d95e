@@ -1,0 +1,19 @@
+package quest;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+
+public class TestQuestServer {
+
+	public static void main(String[] args) {
+		// 1. 서버 생성
+		try (ServerSocket server = new ServerSocket(3040);){
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		// 2. 클라이언트 접속 대기
+		// 3. 입출력 스트림
+		
+	}
+
+}

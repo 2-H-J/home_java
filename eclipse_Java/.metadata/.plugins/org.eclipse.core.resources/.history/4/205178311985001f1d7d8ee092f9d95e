@@ -1,0 +1,9 @@
+package quest;
+
+public class TestQuestServer {
+
+	public static void main(String[] args) {
+
+	}
+
+}

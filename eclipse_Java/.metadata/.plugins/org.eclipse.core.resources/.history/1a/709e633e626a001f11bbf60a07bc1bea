@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class E01_ArrayEx1 {
+
+	public static void main(String[] args) {
+	/*
+		
+	*/
+		Scanner sc = new Scanner(System.in);
+		
+		
+		int n1, n2, n3, n4, n5;
+		
+		
+		n1 = sc.nextInt();
+		n2 = sc.nextInt();
+		n3 = sc.nextInt();
+		n4 = sc.nextInt();
+		n5 = sc.nextInt();
+		
+		int sum = 0;
+		sum += n1;
+		sum += n2;
+		sum += n3;
+		sum += n4;
+		sum += n5;
+		
+		
+	}
+
+}

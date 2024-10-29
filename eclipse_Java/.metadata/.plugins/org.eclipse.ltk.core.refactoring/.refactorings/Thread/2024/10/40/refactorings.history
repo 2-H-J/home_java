@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;e01_init.ThreadRunMain&apos; to &apos;ThreadMain&apos;&#x0D;&#x0A;- Original project: &apos;Thread&apos;&#x0D;&#x0A;- Original element: &apos;e01_init.ThreadRunMain&apos;&#x0D;&#x0A;- Renamed element: &apos;e01_init.ThreadMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ThreadRunMain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;e01_init{ThreadRunMain.java[ThreadRunMain" matchStrategy="1" name="ThreadMain" qualified="false" references="true" similarDeclarations="false" stamp="1727831151015" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package quest;
+
+import java.io.IOException;
+import java.net.Socket;
+
+public class TestQuestClient {
+
+	public static void main(String[] args) {
+		// 1.서버 연결
+		try {
+			Socket server = new Socket("127.0.0.1", 3040);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+}
