@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-    <libraryInfo home="D:\workspace\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" version="21.0.3"/>
     <libraryInfo home="D:\workspace\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551" version="21.0.4">
         <bootpath>
             <entry path="null"/>
@@ -13,16 +12,5 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="D:\workspace\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre" version="21.0.4"/>
-    <libraryInfo home="D:\workspace\jdk\zulu_jdk_21" version="21.0.4"/>
-    <libraryInfo home="D:\workspace\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" version="21.0.3">
-        <bootpath>
-            <entry path="null"/>
-        </bootpath>
-        <extensionDirs>
-            <entry path="null"/>
-        </extensionDirs>
-        <endorsedDirs>
-            <entry path="null"/>
-        </endorsedDirs>
-    </libraryInfo>
+    <libraryInfo home="D:\workspace\jdk\zulu_jdk_21_win_x64" version="21.0.4"/>
 </libraryInfos>
