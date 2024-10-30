@@ -4,7 +4,7 @@
 ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
 ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.textfont
 PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
-RUN_IN_BACKGROUND=true
+RUN_IN_BACKGROUND=false
 eclipse.preferences.version=1
 org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|D2Coding|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|D2Coding;
 org.eclipse.debug.ui.DetailPaneFont=1|D2Coding|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|D2Coding;
